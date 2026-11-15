@@ -1,4 +1,0 @@
-telethon
-requests
-python-dotenv
-aiohttp
